@@ -35,7 +35,7 @@ To initialize the RatDB project:
 
 5. Connect to the database. Open settings.py file in the subdirectory rat_rs under the directory back_end and change the database info to yours. 
 
-   ![database](/Users/arieskoo/Downloads/2ndYear-Dissertation/Project/pic/database.jpg)
+   ![database](./pic/database.jpg)
 
    If you don't have any database software like MySQL, you can just use the embedded database of Django and reset the setting like that: 
 
@@ -88,7 +88,7 @@ To log out the account:
 
 3. Click 'Upload', you will see all the questions. So you can fill the form and submit your new RAT document.
 
-   ![upload](./pic/upload.jpg)
+   ![upload](./pic/Upload.jpg)
 
 ### Personal Center
 
@@ -148,7 +148,7 @@ So far, DashBoard can provide all the public RAT documents for every user.
 
 2. You will see a bunch of RAT document that has been public by others and yourself.
 
-   ![dashboard](./pic/dashboard.jpg)
+   ![dashboard](./pic/Dashboard.jpg)
 
 3. If you click any of them, you can enter the document and see the content that the user already filled.
 
