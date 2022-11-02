@@ -72,7 +72,7 @@ To log out the account:
 
 2. Click 'Log Out' button.
 
-   ​	![logout](./pic/logout.jpg)
+   ​	![logout](./pic/Logout.jpg)
 
 ## Functionality
 
@@ -148,7 +148,7 @@ So far, DashBoard can provide all the public RAT documents for every user.
 
 2. You will see a bunch of RAT document that has been public by others and yourself.
 
-   ![dashboard](./pic/Dashboard.jpg)
+   ![dashboard](./pic/DashBoard.jpg)
 
 3. If you click any of them, you can enter the document and see the content that the user already filled.
 
