@@ -1,0 +1,19 @@
+.inform {
+    height: 80%;
+    background-color: #f5f6fa;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.2rem;
+    transition: all 250ms ease-in;
+}
+
+.inform:hover {
+    transform: translate(0, -5px);
+    box-shadow: 0 10px 20px 0 rgba(48, 55, 66, 0.15);
+}
+
+.info.form {
+    width: 70%;
+}

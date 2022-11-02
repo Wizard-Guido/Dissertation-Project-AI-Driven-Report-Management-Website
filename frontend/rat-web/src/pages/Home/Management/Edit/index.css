@@ -1,0 +1,11 @@
+.row.g-3 {
+    width: 60%;
+}
+
+.input-group {
+    padding-right: 50%;
+}
+
+.form-check.form-switch {
+    margin-left: 1.5rem;
+}

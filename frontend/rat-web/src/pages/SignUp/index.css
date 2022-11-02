@@ -1,0 +1,44 @@
+.signupbox {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap:2vh;
+}
+
+.signupbox form {
+    display: flex;
+    width: 20rem;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.8vh;
+}
+
+.signupbox .form-unit{
+    width: 100%;
+    height: 60%;
+}
+
+.signupbox .form-unit input, select {
+    font-family: FontAwesome, "Roboto", sans-serif;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    padding: 0.8rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    border-radius:1rem;
+}
+
+.form-unit .form-control {
+    background: #f2f2f2;
+    border: 0;
+    border-radius:1rem;
+    padding: 0.8rem;
+}
+
+.logoBox {
+    display: flex;
+    justify-content: center;
+}

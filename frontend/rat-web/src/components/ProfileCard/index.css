@@ -1,0 +1,32 @@
+.card.profile {
+    background-color: #f5f6fa;
+    padding: 2rem;
+    border: 0;
+    transition: all 250ms ease-in;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card.profile:hover {
+    transform: translate(0, -5px);
+    box-shadow: 0 10px 20px 0 rgba(48, 55, 66, 0.15);
+}
+
+.card.profile:hover .positionjob {
+    background-color: #74b9ff;
+}
+
+.card-img-top.prof {
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+.positionjob {
+    border-radius: 1rem;
+    transition: all 200ms ease-in;
+}

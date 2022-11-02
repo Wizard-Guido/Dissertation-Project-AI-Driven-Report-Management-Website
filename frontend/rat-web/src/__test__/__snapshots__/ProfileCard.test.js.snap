@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="profilecard"
+>
+  <div
+    className="card profile"
+    style={
+      {
+        "width": "18rem",
+      }
+    }
+  >
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+        data-testid="userName"
+      >
+        William
+         
+        Koo
+      </h5>
+      <p
+        className="card-text"
+      >
+        Super Admin
+        <br />
+        Total RATs: 100
+      </p>
+      <div
+        className="positionjob"
+      >
+        Professor
+      </div>
+    </div>
+  </div>
+</div>
+`;

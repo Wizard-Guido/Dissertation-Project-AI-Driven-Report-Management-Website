@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+       <Title>An Argument Communication Model of Polarization and Ideological Alignment</Title>
+       <Authors>Sven Banisch and Eckehard Olbrich</Authors>
+       <Institutions>Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany</Institutions>
+       <Issue>Journal of Artificial Societies and Social Simulation 24 (1) 1</Issue>
+       <Abstract>This multi-level model of opinion formation considers that attitudes on diﬀerent issues are usually not independent. In the model, agents exchange beliefs regarding a series of facts. A cognitive structure of evaluative associations links diﬀerent (partially overlapping) sets of facts on diﬀerent political issues and determines agents’ attitudinal positions in a way borrowed from expectancy value theory. If agents preferentially interact with other agents who hold similar attitudes on one or several issues, this leads to biased argument pools and increasing polarization in the sense that groups of agents selectively believe in distinct subsets of facts. Besides the emergence of a bi-modal distribution of opinions on single issues as most previous opinion polarization models address, our model also accounts for the alignment of attitudes across several issues along ideological dimensions.</Abstract>
+       <Keywords>Argument Communication Theory, Opinion Dynamics, Polarisation, Ideological Alignment, Belief Systems, Cognitive-Evaluative Maps</Keywords>
+	   <URL>https://www.jasss.org/24/1/1.html</URL>
+    </record>
+    <record>
+       <Title>Agent-Based Simulation of West Asian Urban Dynamics: Impact of Refugees</Title>
+       <Authors>Ali Termos, Stefano Picascia and Neil Yorke-Smith</Authors>
+       <Institutions>American University in Bulgaria, Bulgaria; University of Glasgow, United Kingdom; Delft University of Technology, Netherlands</Institutions>
+       <Issue>Journal of Artificial Societies and Social Simulation 24 (1) 2</Issue>
+       <Abstract>Rapid international migration of significant populations generates profound implications for countries in West Asia, Europe, and other regions. The motivation of this work is to develop an agent-based model (ABM) to capture the existence of such migrant and refugee flows, and to explore the effects of these flows on urban dynamics. Advances in agent-based modelling have led to theoretically-grounded spatial agent models of urban dynamics, capturing the dynamics of population, property prices, and regeneration. In this article we leverage such an extant agent-based model founded on the rent-gap theory, as a lens to study the effect of sizeable refugee migration upon a capital city in West Asia. In order to calibrate and validate the simulation model we construct indices for housing prices and other factors. Results from the model, implemented in NetLogo, show the impact of migration shock on the housing market, and identify the relative efficacy of housing intervention policies. Our work progresses towards a tool for policy makers asking what-if questions about the urban environment in the context of migration.</Abstract>
+       <Keywords>Rent-Gap Theory, Migration, Agent-Based Modelling, Urban Dynamics, Housing, Lebanon</Keywords>
+	   <URL>https://www.jasss.org/24/1/2.html</URL>
+    </record>
+</data-set>
+

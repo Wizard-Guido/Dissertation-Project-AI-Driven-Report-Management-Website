@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+       <Title>Catch Me if You Can: Using a Threshold Model to Simulate Support for Presidential Candidates in the Invisible Primary</Title>
+       <Authors>Elizabeth A. Stiles , Colin D. Swearingen , Linda Seiter and Brendan Foreman</Authors>
+       <Institutions>John Carroll University, United States; PNC Bank, United States</Institutions>
+       <Issue>Journal of Artificial Societies and Social Simulation 23 (1) 1</Issue>
+       <Abstract>The invisible primary is an important time in United States Presidential primary politics as candidates gain momentum for their campaigns before they compete formally in the first state caucus (Iowa) and primaries (e.g. New Hampshire). However, this critical period has not been possible to observe, hence the name. By simulating networks of primary followers, we can explicate hypotheses for how messages travel through networks to affect voter preferences. To do so, we use a threshold model to drive our simulated network analysis testing spread of public support for candidates in invisible primaries. We assign voter thresholds for candidates and vary number of voters, attachment to candidates and decay. We also vary social graph structure and model. Results of the algorithm show effects of size of lead, an unwavering base of support, and information loss.</Abstract>
+       <Keywords>Social Network Analysis, Threshold Model, Invisible Primary, Campaigns, Elections, Presidency</Keywords>
+	   <URL>https://www.jasss.org/23/1/1.html</URL>
+    </record>
+    <record>
+       <Title>How Policy Decisions Affect Refugee Journeys in South Sudan: A Study Using Automated Ensemble Simulations</Title>
+       <Authors>Diana Suleimenova and Derek Groen</Authors>
+       <Institutions>Brunel University London, Department of Computer Science, United Kingdom</Institutions>
+       <Issue>Journal of Artificial Societies and Social Simulation 23 (1) 2</Issue>
+       <Abstract>Forced displacement has a huge impact on society today, as more than 68 million people are forcibly displaced worldwide. Existing methods for forecasting the arrival of migrants, especially refugees, may help us to better allocate humanitarian support and protection. However, few researchers have investigated the effects of policy decisions, such as border closures, on the movement of these refugees. Recently established simulation development approaches have made it possible to conduct such a study. In this paper, we use such an approach to investigate the effect of policy decisions on refugee arrivals for the South Sudan refugee crisis. To make such a study feasible in terms of human effort, we rely on agent-based modelling, and have automated several phases of simulation development using the FabFlee automation toolkit. We observe a decrease in the average relative difference from 0.615 to 0.499 as we improved the simulation model with additional information. Moreover, we conclude that the border closure and a reduction in camp capacity induce fewer refugee arrivals and more time spend travelling to other camps. While a border opening and an increase in camp capacity result in a limited increase in refugee arrivals at the destination camps. To the best of our knowledge, we are the first to conduct such an investigation for this conflict.</Abstract>
+       <Keywords>Refugee Modelling, Agent-Based Modelling, Automation Toolkit, Policy Decisions, Validation, Sensitivity Analysis</Keywords>
+	   <URL>https://www.jasss.org/23/1/2.html</URL>
+    </record>
+</data-set>

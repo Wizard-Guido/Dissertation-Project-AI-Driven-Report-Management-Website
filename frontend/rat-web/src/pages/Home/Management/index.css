@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Anton';
+    src: url('../../../font/Anton-Regular.ttf');
+}
+
+.managepage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.mpleft, 
+.mpright {
+    width: 15vw;
+}
+
+.mpcenter {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.topword {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-family: 'Anton';
+}
+
+.list-group.list-group-flush {
+    flex: 6;
+    display: flex;
+    gap: 1rem;
+    font-size: 1.1rem;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: baseline;
+    gap: 30%;
+}
+
+.list-group-item > p {
+    margin-bottom: 0;
+    width: 30%;
+    text-align: left;
+}
+
+.btn {
+    transition: all 100ms ease-in;
+}
+
+.btn:hover {
+    border-radius: 0.6rem;
+}
+
+.btn.btn-danger {
+    justify-self: flex-end;
+}
+
+.recommend p {
+    margin-right: 2rem;
+}

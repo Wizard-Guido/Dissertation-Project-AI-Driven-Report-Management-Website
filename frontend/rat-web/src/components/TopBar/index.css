@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #6ab4fe;
+}
+
+.navbar-collapse {
+    justify-content: center;
+}
+
+.nav.nav-pills.nav-fill {
+    flex: 1;
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    background-color: #1678ff!important;
+    color: #000 !important;
+
+}
+
+.nav-link:active {
+    background-color: #0984e3 !important;
+    color: #000;
+
+}
